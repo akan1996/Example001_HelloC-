@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\bin\Debug\net6.0\Examples005_Conditions.exe
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\bin\Debug\net6.0\Examples005_Conditions.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\bin\Debug\net6.0\Examples005_Conditions.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\bin\Debug\net6.0\Examples005_Conditions.dll
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\bin\Debug\net6.0\Examples005_Conditions.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\obj\Debug\net6.0\Examples005_Conditions.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\obj\Debug\net6.0\Examples005_Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\obj\Debug\net6.0\Examples005_Conditions.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\obj\Debug\net6.0\Examples005_Conditions.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\obj\Debug\net6.0\Examples005_Conditions.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\obj\Debug\net6.0\Examples005_Conditions.dll
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\obj\Debug\net6.0\refint\Examples005_Conditions.dll
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\obj\Debug\net6.0\Examples005_Conditions.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\obj\Debug\net6.0\Examples005_Conditions.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\Examples\Examples001_HelloConsol\Examples005_Conditions\obj\Debug\net6.0\ref\Examples005_Conditions.dll
